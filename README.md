@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+:eyeglasses: Aprendiz de tiempo completo.  
+:family: **El papá más feliz del mundo**
+
+- 🌱 I’m currently learning git, githb, python, AI...
+
+### Vias de contactacto en construcción
+![website](https://underconstruction)
+
+
+
+
+
 <!--
 **jufeespinosag/jufeespinosag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
