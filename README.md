@@ -3,7 +3,7 @@
 :eyeglasses: Aprendiz de tiempo completo.  
 :family: **El papá más feliz del mundo**
 
-- 🌱 I’m currently learning git, githb, python, AI...
+- 🌱 I’m currently learning git, github, python, AI...
 
 ### Vias de contactacto en construcción
 ![website](https://underconstruction)
