@@ -8,8 +8,10 @@
 ### Vias de contactacto en construcción
 ![website](https://underconstruction)
 
+### ⚡: Actividad reciente
+<!-- START_SECTION:activity -->
 
-
+<!-- END_SECTION:activity-->
 
 
 <!--
